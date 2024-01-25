@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://99hyejin.github.io/jinatpc.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
